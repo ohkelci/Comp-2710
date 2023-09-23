@@ -16,4 +16,4 @@ Merges the numbers into two files and writes all the numbers into a third file.
 Simple trivia quiz game using no array but instead a linked data set.
 
 # Project 5
-Given a code with potential security issues and eliminated the issuue by improving the code.
+Given a code with potential security issues and eliminated the issue by improving the code.
